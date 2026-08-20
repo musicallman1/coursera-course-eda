@@ -4,7 +4,7 @@ Exploratory data analysis of Coursera's course catalog, examining what drives co
 
 ## Dataset
 
-[Coursera Course Dataset](https://www.kaggle.com/siddharthm1698/coursera-course-dataset) via Kaggle (891 courses, 7 features: title, organization, certificate type, rating, difficulty, and enrollment).
+[Coursera Course Dataset](https://www.kaggle.com/siddharthm1698/coursera-course-dataset) via Kaggle (891 courses, 7 features: title, organization, certificate type, rating, difficulty, and enrollment). Licensed under [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) — see `LICENSE`.
 
 ## What's in the notebook
 
@@ -40,6 +40,7 @@ jupyter notebook coursera_eda.ipynb
 ```
 coursera-course-eda/
 ├── README.md
+├── LICENSE
 ├── requirements.txt
 ├── data/
 │   └── coursea_data.csv
